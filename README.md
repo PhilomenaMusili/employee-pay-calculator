@@ -28,6 +28,7 @@ Clone the repository:
 
 bash
 git clone https://github.com/your-username/employee-pay-calculator.git
+
 Navigate to the project directory:
 
 bash
@@ -42,9 +43,11 @@ java Employ
 Follow the prompts and enter the required information.
 
 5. Contributing
+
 Contributions are welcome and encouraged for this project.
 
 6. License
+
 This program is licensed under the MIT License. See the LICENSE file for more information.
 
 
