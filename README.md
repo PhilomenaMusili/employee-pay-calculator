@@ -42,7 +42,7 @@ java Employ
 Follow the prompts and enter the required information.
 
 5. Contributing
-Contributions are not currently being accepted for this project.
+Contributions are welcome and encouraged for this project.
 
 6. License
 This program is licensed under the MIT License. See the LICENSE file for more information.
