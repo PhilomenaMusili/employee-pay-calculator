@@ -13,7 +13,7 @@ Contributing
 License
 
 1. Introduction
-Employee Pay Calculator is a Java program that calculates the gross pay, withholding tax, and net pay of an employee based on the number of hours worked and the hourly rate of pay.
+Employee Pay Calculator is a Java program that calculates the gross pay, withholding tax, and net pay of an employee based on the number of hours worked and the hourly rate of pay.Its just a simple calculator app
 
 2. Features
 Calculates gross pay, withholding tax, and net pay based on user input
